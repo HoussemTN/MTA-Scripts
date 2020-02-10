@@ -1,0 +1,9 @@
+<meta>
+	<info author = "Houssem" name = "MegaJump" version = "1" type = "script" />
+
+	<script src = "Jump.lua" type = "server" />
+	<script src = "client.lua" type = "client" />
+	
+
+	<file src = "ressort.mp3" />
+</meta>
